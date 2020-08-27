@@ -1,1 +1,2 @@
-# SecondRepository kkkkkkkkk kkkkkk kkkk
+# SecondRepository kkkkkkkkk kkkkkk
+git is a version control system 

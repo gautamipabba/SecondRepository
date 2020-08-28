@@ -1,1 +1,1 @@
-Hello,welcome to git titorial,in next video we will learn git add,commiy, push command.
+Hello,welcome to git titorial,i modified this also for onlyu practice purpose.
